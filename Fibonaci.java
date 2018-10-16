@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ABC {
+public class Fibonaci {
 	public static void main(String args[]) {
 		System.out.println("Enter Number of Fibinacci: ");
 		Scanner scan = new Scanner(System.in);
